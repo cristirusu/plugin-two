@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Plugin Two
  * Description: Test plugin - Two.
- * Version: 1.0
+ * Version: 1.1
  * Author: Cristi Rusu
  */
 
@@ -25,7 +25,7 @@ class Plugin_Two
     public function plugin_admin_page()
     {
         echo '<div class="wrap"><h1>Plugins Two</h1>';
-        echo 'Version: 1.0';
+        echo 'Version: 1.1';
         echo '</div>';
     }
 
